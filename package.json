@@ -1,0 +1,1 @@
+{"description":"One painfully honest confession line for the make.fun bounty 'Confess Your Worst Moment'","license":"MIT","main":"main.ts","name":"confess-your-worst-moment","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
